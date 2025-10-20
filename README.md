@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 😀 Hi, I'm a Master's student at Carnegie Mellon University.
 
-🤔 I'm currently working on automatic speech recognition and spoken language models.
+🤔 I'm currently working on **Automatic Speech Recognition**, **Spoken Language Identification**, and **Spoken Language Models**.
 
 [![Qingzheng-Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qingzheng-Wang&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en)
 ](https://github.com/Qingzheng-Wang)
