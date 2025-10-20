@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-🎓 Hi, I'm a Master's student at **Carnegie Mellon University**.
+🎓 I'm a Master's student at **Carnegie Mellon University**.
 
 🤔 I'm currently working on **Automatic Speech Recognition**, **Spoken Language Identification**, and **Spoken Language Models**.
 
