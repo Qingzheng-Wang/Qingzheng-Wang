@@ -13,23 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😀 Hi, I'm a Master's student at Carnegie Mellon University.
+😀 Hi, I'm a Master's student at **Carnegie Mellon University**.
 
 🤔 I'm currently working on **Automatic Speech Recognition**, **Spoken Language Identification**, and **Spoken Language Models**.
 
 <p align="left">
-  <a href="mailto:qingzhew@andrew.cmu.edu" target="_blank" style="text-decoration:none;">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="32" height="32" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?user=Ihvv-tEAAAAJ&hl=en" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="32" height="32" alt="Google Scholar" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/qingzheng-wang-65627427a/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  &nbsp;
+  <a href="mailto:qingzhengwang.app@gmail.com" target="_blank">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="32" height="32" alt="Gmail">
+  </a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=Ihvv-tEAAAAJ&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="32" height="32" alt="Google Scholar">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/qingzheng-wang-65627427a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn">
+  </a>&nbsp;
 </p>
 
 
