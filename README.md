@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-🎓 I'm a Master's student at **Carnegie Mellon University**.
+🎓 I'm a Master's student at Carnegie Mellon University.
 
-🤔 I'm currently working on **Automatic Speech Recognition**, **Spoken Language Identification**, and **Spoken Language Models**.
+🤔 I study Speech/Audio Language Models.
 
 <p align="left">
   <a href="mailto:qingzhengwang.app@gmail.com" target="_blank">
