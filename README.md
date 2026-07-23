@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-🎓 I'm a Master's student at Carnegie Mellon University.
+🎓 I work at Fish Audio.
 
 🤔 I study Speech/Audio Language Models.
 
